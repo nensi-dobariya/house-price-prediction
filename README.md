@@ -7,6 +7,7 @@ This is a Machine Learning based **House Price Prediction web application** buil
 The application predicts house prices based on user input features and provides an interactive user interface.
 
 The app is deployed on **Hugging Face Spaces** and can be accessed via a public link.
+https://huggingface.co/spaces/nensi-dobariya/house-price-prediction
 
 ---
 

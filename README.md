@@ -43,8 +43,6 @@ The trained model is saved as a `.pkl` file and used for prediction in the Strea
 - **Plotly**
 - **Hugging Face Spaces**
 
----
 
-## 📂 Project Structure
 
 

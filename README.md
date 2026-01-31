@@ -1,7 +1,10 @@
 # 🏠 House Price Prediction 
 
-This is a Machine Learning based **House Price Prediction web application** built using **Python and Streamlit**.  
-The application predicts house prices based on user input features and provides an interactive user interface.
+# House Price Prediction Project Using Machine Learning
+
+This House Price Prediction project predicts house prices using Machine Learning in Python.
+It is a complete end-to-end ML project with data preprocessing, model training, and deployment using Streamlit.
+
 
 The app is deployed on **Hugging Face Spaces** and can be accessed via a public link.
 https://huggingface.co/spaces/nensi-dobariya/house-price-prediction
